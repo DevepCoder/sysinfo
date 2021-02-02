@@ -1,3 +1,5 @@
+> ![firstLook](https://i.imgur.com/CB1ooxg.png)
+
 # sysinfo
 
 ## What is it ?
